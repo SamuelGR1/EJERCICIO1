@@ -11,7 +11,7 @@ Console.WriteLine("Ingrese un numero:");
 no1 = Convert.ToByte(Console.ReadLine());
 Console.WriteLine("Ingrese otro numero:");
 no2 = Convert.ToByte(Console.ReadLine());
-multi = (ushort)(no1 * no2);
+multi= (ushort)(no1 * no2);
 Console.WriteLine("el resultado de la multiplicacione es: " + multi);
 Console.WriteLine();
 
